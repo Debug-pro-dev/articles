@@ -9,7 +9,7 @@
 - Начало
     - [Введение](./introduction.html)
 - Установки и подготовка
-    - [Установка Node.js и discord.js](./preparations/installnodejsanddiscordjs.html)
+    - [Установка Node.js и discord.js](./preparations/)
     - [Настройка приложения-бота](./preparations/setting-up-a-bot-application.html)
     - [Добавление вашего бота на серверы](./preparations/adding-your-bot-to-servers.html)
 - Создание вашего бота(В разработке)
